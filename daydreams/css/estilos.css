@@ -1,0 +1,86 @@
+#logo-menu{
+	width: 130px;
+	height: 80px;
+}
+
+#logo-footer{
+	width: 100px;
+}
+
+.footer{
+	background-color: #393D42;
+	clear: both;
+	height: 80px;
+}
+
+#redes{
+	float: right;
+}
+
+.center{
+	margin: 20px auto 0 auto;
+	display: block;
+}
+
+.contacto{
+	margin-top: 10%;
+}
+
+.card{
+	border: none;
+}
+
+.card-img-top{
+	width: 320px;
+	height: 220px;
+}
+
+#copyright{
+	color: white;
+	margin-top: 10%;
+    margin-bottom: 0px;
+}
+
+.icono-footer{
+	color: white;
+	font-size: 2em;
+}
+
+.icono-contacto{
+	font-size: 2em;
+}
+
+/*eventos*/
+.morado{
+	color: #673AB7;
+}
+
+.eventos{
+	width: 100%;
+	padding-right: 0%;
+}
+
+.pad-d{
+	padding-right: 0% !important;
+}
+
+.pad-i{
+	padding-left: 0% !important;
+}
+
+.boton-ev{
+	text-decoration: none !important;
+	color: black;
+	background-color: #efb810;
+}
+
+/*estructuras*/
+.icono-des{
+	color: #efb810;
+	font-size: 4em;
+}
+
+
+
+
+
